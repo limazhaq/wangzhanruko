@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://limazhaq.github.io/wangzhanruko/sitemap.xml
